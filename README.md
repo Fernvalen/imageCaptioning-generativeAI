@@ -203,11 +203,5 @@ inputs = {k: v.to(device) for k, v in inputs.items()}
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE) - feel free to use and adapt it for personal, academic, or commercial projects.
-
----
-
 ⭐ If you found this project helpful, consider giving it a star on GitHub!
 

@@ -1,0 +1,48 @@
+# Python virtual environments
+my_env/
+venv/
+env/
+.env/
+ENV/
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Hugging Face cache & model checkpoints
+.cache/
+hf_cache/
+
+# IDE / Editor configuration
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Output files from local runs (optional, keeping captions.txt as sample)
+captions_local.txt
+captions_url.txt
+
